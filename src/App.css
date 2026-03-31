@@ -1,0 +1,59 @@
+/* Dark Futuristic Theme */
+
+h1.logo {
+    font-family: 'Space Mono', monospace;
+    font-size: 60px !important;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    margin: 0 !important;
+    padding: 0 !important;
+    line-height: 1.2 !important;
+}
+
+.logo-live,
+.logo-viz {
+    color: #f5f2f2;
+}
+
+.logo-data {
+    color: #d92814;
+}
+
+.logo-dot {
+    color: #27ae60;
+}
+
+.space-mono {
+    font-family: 'Space Mono', monospace;
+}
+
+.space-grotesk {
+    font-family: 'Space Grotesk', system-ui, sans-serif;
+}
+
+.action-icon {
+    color: #333;
+    cursor: pointer;
+    transition: color 0.2s;
+}
+
+.action-icon:hover {
+    color: #888;
+}
+
+.ai-avatar {
+    width: 28px;
+    height: 28px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0.5px solid rgba(192, 57, 43, 0.27);
+    background: #1a1a1a;
+}
+
+.ai-avatar-square {
+    width: 14px;
+    height: 14px;
+    background: #d6200c;
+}
